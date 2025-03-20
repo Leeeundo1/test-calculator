@@ -1,2 +1,5 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+- 사용자 입력으로 두 숫자와 연산자(+,-,*,/)를 받아 계산합니다.
+- 0으로 나누는 경우 예외 처리 포함
+- switch문, if문 등 Dart 기초 문법 활용했습니다
+
+  +코드 다시 작성해보라고 하면 다시 작성할 수 있을 정도로 복습했습니당 ㅎㅎ..
